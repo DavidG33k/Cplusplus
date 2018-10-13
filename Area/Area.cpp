@@ -10,7 +10,7 @@ int main () {
 
     int choice;
 
-    cout << "This software can calculate the area of triangle with three different metods." << endl << endl;
+    cout << "This software can calculate the area of triangle with three different methods." << endl << endl;
     cout << "Please choice the metod you prefer (1 for basic formula, 2 for Heron's formula, 3 for trigonometric formula): ";
     cin >> choice;
 
